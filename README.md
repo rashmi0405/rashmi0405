@@ -7,7 +7,7 @@
 
 
 
-[![Rashmi's github stats](https://github-readme-stats.vercel.app/api?username=rashmi0405&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Rashmi's github stats](https://github-readme-stats.vercel.app/api?username=rashmi0405&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/rashmi0405/github-readme-stats)
 
 <!---
 rashmi0405/rashmi0405 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
