@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and Data Analyst    
 - 🌱 I’m currently learning Deep Learning such as Tensorflow, Keras and AWS Cloud with S3 Services
 - 💞️ I’m looking to collaborate on LinkedIn Profile Name: Rashmi Padalkar
-- 📫 How to reach me rashmi.shraddha97@gmail.com
+- 📫 How to reach me rashmipadalkar24@gmail.com
 
 
 
