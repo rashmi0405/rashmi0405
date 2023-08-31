@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Rashmi Padalkar. Skilled in Python, Tableau, Power BI, Data Mining, Machine Learning, Deep Learning.<br>👀 I’m interested in Data Science and Data Analyst Job Roles<br>🌱 I’m currently learning Deep Learning such as Tensorflow, Keras, and AWS Cloud with S3 Services<br>💞️ I’m looking to collaborate on LinkedIn Profile Name: Rashmi Padalkar (https://www.linkedin.com/in/rashmi-padalkar/)<br>📫 How to reach me rashmipadalkar24@gmail.com<br>
+👋 Hi, I’m Rashmi Padalkar. Skilled in Python, Tableau, Power BI, Data Mining, Machine Learning, Deep Learning.<br>👀 I’m interested in Data Science and Data Analyst Job Roles.<br>🌱 I’m currently learning Deep Learning such as Tensorflow, Keras, and AWS Cloud with S3 Services.<br>💞️ I’m looking to collaborate on LinkedIn Profile Name: Rashmi Padalkar (https://www.linkedin.com/in/rashmi-padalkar/)<br>📫 How to reach me rashmipadalkar24@gmail.com<br>
 
 
 ## 🌐 Socials:
