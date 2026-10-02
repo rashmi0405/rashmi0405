@@ -1,6 +1,6 @@
 <div align="center">
 
-![Rashmi Padalkar, Senior AI / LLM Engineer](./banner-fullbody.svg)
+![Rashmi Padalkar, Senior AI / LLM Engineer](./banner.svg)
 
 <a href="https://github.com/rashmi0405">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF7EB6&center=true&vCenter=true&width=760&lines=Building+RAG+pipelines+that+reduce+hallucinations;Evaluating+LLMs+on+accuracy%2C+latency+and+cost;Cutting+GenAI+API+spend+without+losing+quality;9%2B+years+turning+data+into+decisions;Sailing+the+Grand+Line+of+LLM+engineering" alt="Typing SVG" />
