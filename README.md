@@ -8,20 +8,11 @@
 
 </div>
 
-<table>
-<tr>
-<td width="340" valign="top" align="center">
-
-<img src="./model-card.svg" alt="Model card badge" width="320" />
-
-</td>
-<td valign="top" align="center">
+<div align="center">
 
 <img src="./bounty-poster.svg" alt="Wanted poster: Rashmi Padalkar, for crimes against hallucinations" width="330" />
 
-</td>
-</tr>
-</table>
+</div>
 
 ### 🧬 About me
 
